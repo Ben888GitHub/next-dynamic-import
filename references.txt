@@ -1,0 +1,3 @@
+https://javascript.plainenglish.io/exploring-next-js-dynamic-import-ccb28a03e7f9
+https://www.geeksforgeeks.org/next-js-dynamic-import/
+https://www.educative.io/edpresso/what-is-code-splitting-in-nextjs
