@@ -4,7 +4,9 @@ import Hello from '../components/Hello';
 
 export default function Home() {
 	const [showComp, SetShowComp] = useState(false);
-	const GFG = dynamic(() => import('../components/GFG'));
+	const GFG = dynamic(() => import('../components/GFG'), {
+	  loading: () => <p>Loading...</p>,
+	});
 
 	return (
 		<>
